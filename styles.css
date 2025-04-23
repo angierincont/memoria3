@@ -2,7 +2,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(to right, #4facfe, #00f2fe);
-    color: #fff;
+    color: #f68989;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -55,8 +55,8 @@ h1 {
 .card {
     width: 70px;
     height: 70px;
-    background: #fff;
-    color: #000;
+    background: #ca1212;
+    color: #e4dbdb;
     font-size: 2rem;
     display: flex;
     align-items: center;
